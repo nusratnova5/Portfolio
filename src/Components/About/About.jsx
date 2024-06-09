@@ -5,7 +5,7 @@ import { SiFacebook, SiLinkedin } from 'react-icons/si';
 
 const About = () => {
     return (
-        <div className="text-center p-8 my-20">
+        <div id='about' className="text-center p-8 my-20">
             <h2 className="font-bold text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-sky-900">
                 Tech Trailblazer: Me, the Developer
             </h2>
@@ -14,7 +14,7 @@ const About = () => {
                 <div className="w-full md:w-3/5 lg:w-1/2 px-4">
                     <p className="flex items-center space-x-2 text-2xl text-sky-900">
                         <MdMarkEmailRead className="text-5xl mb-3" />
-                        <a className=''>nusrat.nova16@gmail.com</a>
+                        <a href="mailto:nusrat.nova16@gmail.com">Email</a>
                     </p>
                     <p className="flex items-center space-x-2 text-2xl text-sky-900">
                         <PiGithubLogoFill className="text-5xl mb-3" />

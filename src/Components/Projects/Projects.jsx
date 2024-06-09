@@ -5,7 +5,7 @@ import { BsArrowUpRightCircleFill } from "react-icons/bs";
 
 const Projects = () => {
     return (
-        <div className="text-center p-8 my-20">
+        <div id='projects' className="text-center p-8 my-20">
             <h2 className="font-bold text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-sky-900">
                 Explore My Projects
             </h2>
@@ -37,7 +37,7 @@ const Projects = () => {
                     <p className="sm:text-lg my-6">
                     This project is a food delivery website created as part of a design challenge for a Web Developer Internship. The website is built using HTML, CSS, Tailwind CSS, daisyUI, SwiperJS, and Google Fonts.                    </p>
                 
-                    <a href="https://tech-hub-front-pearl.vercel.app/" className='tooltip tooltip-right tooltip-success' data-tip='Live'><BsArrowUpRightCircleFill className='text-sky-900 text-4xl' /></a>
+                    <a href="https://nusratnova5.github.io/food-delivery-website/" className='tooltip tooltip-right tooltip-success' data-tip='Live'><BsArrowUpRightCircleFill className='text-sky-900 text-4xl' /></a>
                 </div>
             </div>
         </div>
