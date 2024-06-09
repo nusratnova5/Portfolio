@@ -21,7 +21,7 @@ const Projects = () => {
                     <p className="sm:text-lg my-6">
                         TechHub is an e-commerce site offering a wide range of high-quality tech accessories. Enjoy a seamless shopping experience with our intuitive design, secure payments, and fast shipping.                </p>
 
-                    <a href="https://tech-hub-front-pearl.vercel.app/"><BsArrowUpRightCircleFill className='text-sky-900 text-4xl' /></a>
+                    <a href="https://tech-hub-front-pearl.vercel.app/" className='tooltip tooltip-right tooltip-success' data-tip='Live'><BsArrowUpRightCircleFill className='text-sky-900 text-4xl' /></a>
                 </div>
 
             </div>
@@ -37,7 +37,7 @@ const Projects = () => {
                     <p className="sm:text-lg my-6">
                     This project is a food delivery website created as part of a design challenge for a Web Developer Internship. The website is built using HTML, CSS, Tailwind CSS, daisyUI, SwiperJS, and Google Fonts.                    </p>
                 
-                    <a href=""><BsArrowUpRightCircleFill className='text-sky-900 text-4xl' /></a>
+                    <a href="https://tech-hub-front-pearl.vercel.app/" className='tooltip tooltip-right tooltip-success' data-tip='Live'><BsArrowUpRightCircleFill className='text-sky-900 text-4xl' /></a>
                 </div>
             </div>
         </div>
