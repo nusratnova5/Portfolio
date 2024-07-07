@@ -10,13 +10,13 @@ function App() {
 
   return (
     <div className="w-3/4 mx-auto">
-      <Header/>
-      <Banner/>
-      <About/>
-      <Skills/>
-      <Projects/>
-      <Contact/>
-      <Footer/>
+      <Header />
+      <Banner />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
+      <Footer />
     </div>
   )
 }
