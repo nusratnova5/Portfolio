@@ -10,7 +10,7 @@ import img8 from '../Skills/images/express.webp';
 
 const Skills = () => {
     return (
-        <div id='skills' className='bg-sky-900 p-10 rounded-lg'>
+        <div id='skills' className='bg-primary p-10 rounded-lg'>
             <h1 className='text-center text-5xl font-bold mb-10 text-white'>My Skills</h1>
         <div className='grid lg:grid-cols-4 gap-20'>
             
