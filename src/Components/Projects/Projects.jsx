@@ -32,12 +32,11 @@ const Projects = () => {
                 </div>
                 <div className="w-full md:w-2/5 lg:w-1/2 px-4 md:order-first text-center md:text-left lg:pr-12">
                     <h3 className="font-bold mt-8 text-xl md:mt-0 sm:text-2xl">
-                        Food Delivery Website
+                       Event Management Website
                     </h3>
                     <p className="sm:text-lg my-6">
-                    This project is a food delivery website created as part of a design challenge for a Web Developer Internship. The website is built using HTML, CSS, Tailwind CSS, daisyUI, SwiperJS, and Google Fonts.                    </p>
-                
-                    <a href="https://nusratnova5.github.io/food-delivery-website/" className='tooltip tooltip-right tooltip-success' data-tip='Live'><BsArrowUpRightCircleFill className='text-accent text-4xl' /></a>
+                    Celebrio is a simple and easy-to-use app that helps you plan and manage events smoothly. Whether it’s a small gathering or a big event, EventMaster makes organizing easy and stress-free. Perfect for anyone looking to create great events with ease.</p>       
+                    <a href="https://celebrio.vercel.app" className='tooltip tooltip-right tooltip-success' data-tip='Live'><BsArrowUpRightCircleFill className='text-accent text-4xl' /></a>
                 </div>
             </div>
         </div>

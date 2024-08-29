@@ -2,7 +2,7 @@ import React from 'react';
 import bannerimg from '../Banner/Nusrat Jahan.png'
 import { CgProfile } from 'react-icons/cg';
 import { saveAs } from 'file-saver';
-import resume from '../Banner/Nusrat Jahan.pdf'
+import resume from '../Banner/Nusrat Jahan - Resume.pdf'
 import img from '../Banner/Nusrat Jahan.png'
 import Photo from './Photo';
 

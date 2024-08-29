@@ -8,7 +8,7 @@ export default {
       colors: {
         primary: "#161616",
         accent:{
-          DEFAULT: "#3dcfb6",
+          DEFAULT: "#00ff99",
           hover: "#00e187",
         }, 
         customBackground: "#202020",
